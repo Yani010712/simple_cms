@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails web application.
 
-Things you may want to cover:
+### Set up & Running
 
-* Ruby version
+1. git clone https://github.com/Yani010712/simple_cms.git
+2. cd simple_cms
+3. bundler install
+4. rails db:migrate
+5. rails db:seed
+6. rails s
 
-* System dependencies
 
-* Configuration
+ Ruby 2.6.3
+ Rails 6.0.2.1
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
